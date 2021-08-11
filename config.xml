@@ -668,4 +668,5 @@
             </array>
         </config-file>
     </platform>
+    <engine name="android" spec="~9.1.0" />
 </widget>
