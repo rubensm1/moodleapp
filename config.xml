@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-versionCode="39600" id="com.moodle.moodlemobile" ios-CFBundleVersion="3.9.6.0" version="3.9.6-dev" versionCode="39600" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Moodle</name>
-    <description>Moodle official app</description>
-    <author email="mobile@moodle.com" href="http://moodle.com">Moodle Mobile team</author>
+<widget android-versionCode="39600" id="br.edu.ufgd.moodlemobileead" ios-CFBundleVersion="3.9.6.0" version="3.9.6-dev" versionCode="39600" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>EAD UFGD</name>
+    <description>Personalização da aplicação Moodle Mobile para a EAD UFGD</description>
+    <author email="ti.ead@ufgd.edu.br" href="https://portal.ead.ufgd.edu.br">TI EAD UFGD</author>
     <content src="index.html" />
     <access origin="*" />
     <access launch-external="yes" origin="tel:*" />
