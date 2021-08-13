@@ -85,7 +85,8 @@ export class CoreLoginSitePage implements OnInit {
             this.initOnboarding();
         }
 
-        this.showScanQR = CoreLoginHelper.displayQRInSiteScreen();
+        // Ocultando QR code
+        this.showScanQR = false;//CoreLoginHelper.displayQRInSiteScreen();
 
         this.siteForm = this.formBuilder.group({
             siteUrl: [url, this.moodleUrlValidator()],
